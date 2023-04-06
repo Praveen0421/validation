@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "firstname": "Praveen",
+      "lastname": "R",
+      "email": "jjj@1rivet.com",
+      "phone": "9999999999",
+      "password": "Praveen$123",
+      "id": 1
+    },
+    {
+      "firstname": "P",
+      "lastname": "Rai",
+      "email": "jjj@1rivet.com",
+      "phone": "9999999999",
+      "password": "Praveen$123",
+      "id": 2
+    },
+    {
+      "firstname": "Prave",
+      "lastname": "Rai",
+      "email": "jjj@1rivet.com",
+      "phone": "9999999999",
+      "password": "Praveen$123",
+      "id": 3
+    }
+  ]
+}
